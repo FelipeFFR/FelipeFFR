@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFFR&layout=compact&theme=transparent)](https://github.com/FelipeFFR) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeFFR&show_icons=true&theme=transparent)
 
-contacts:
 E-mail: felipefreitasffr.dev@gmail.com
 <!--
 **FelipeFFR/FelipeFFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
